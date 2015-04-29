@@ -1,0 +1,48 @@
+.secondDiv{
+	background-color: #009600;
+	width: 500px;
+}
+.thirdDiv{
+	margin-left: 500px;
+}
+#red{
+	background-color: red;
+}
+#blue{
+	background-color: blue;
+}
+a:link{
+	color: blue;
+}
+a:visited {
+	color: silver;
+}
+a:hover {
+	color: green;
+	font-size: 4em;
+}
+.paragraph{
+	display: inline;
+}
+.tableBorder{
+	border: 5px solid green;
+	padding: 8px;
+}
+.innerBorder1{
+	border: 3px groove blue;
+	padding: 4px;
+}
+.innerBorder2{
+	border: 3px groove red;
+	padding: 4px;
+}
+.homeImageSad{
+	width: 200px;
+	height: 150px;
+	margin-top: 20px;
+	float: right;
+}
+.positionTable{
+	position: relative;
+	margin-left: 30em;
+}
